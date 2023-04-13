@@ -1,1 +1,5 @@
-It's the first project from odin project, it only contain as of it's creation date basic HTML, as I'm learning more cool stuff I will try improve it. :)
+[![Screenshot-from-2023-04-13-11-03-11.png](https://i.postimg.cc/c4YJdtMS/Screenshot-from-2023-04-13-11-03-11.png)](https://postimg.cc/GHLRQ257)
+
+# Recipes
+
+This is the first project from Odin Project, and as of its creation date, it only contains basic HTML.
