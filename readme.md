@@ -35,8 +35,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ---
 
-#  Recipes Project 
-
 ## 🇺🇸 Recipes Project 🇺🇸
 
 This is the [first project from The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), focusing on basic HTML.
@@ -71,8 +69,6 @@ This project consists of a simple recipe website, built using only HTML. The goa
 Contributions are welcome! Feel free to submit pull requests with improvements or new recipes.
 
 ---
-
-#  レシピプロジェクト 
 
 ## 🇯🇵 レシピプロジェクト 🇯🇵
 
