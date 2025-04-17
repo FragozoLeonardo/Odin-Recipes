@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Projeto de Receitas 🇧🇷
 
-Este é o primeiro projeto do The Odin Project, focado em HTML básico.
+Este é o [primeiro projeto do The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), focado em HTML básico.
 
 ### Descrição
 
@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ## 🇺🇸 Recipes Project 🇺🇸
 
-This is the first project from The Odin Project, focusing on basic HTML.
+This is the [first project from The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), focusing on basic HTML.
 
 ### Description
 
@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to submit pull requests with improvements o
 
 ## 🇯🇵 レシピプロジェクト 🇯🇵
 
-これはThe Odin Projectの最初のプロジェクトで、基本的なHTMLに焦点を当てています。
+これは[The Odin Projectの最初のプロジェクト](https://www.theodinproject.com/lessons/foundations-recipes)で、基本的なHTMLに焦点を当てています。
 
 ### 説明
 
