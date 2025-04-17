@@ -1,104 +1,82 @@
 [![Screenshot-from-2023-04-13-11-03-11.png](https://i.postimg.cc/c4YJdtMS/Screenshot-from-2023-04-13-11-03-11.png)](https://postimg.cc/GHLRQ257)
 
-## 🇧🇷 Projeto de Receitas 🇧🇷
-
-Este é o [primeiro projeto do The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), focado em HTML básico.
+## 🇧🇷 Odin Recipes 🧑‍🍳
 
 ### Descrição
 
-Este projeto consiste em um site simples de receitas, construído utilizando apenas HTML. O objetivo é praticar e demonstrar habilidades básicas de estruturação de páginas web.
+Este projeto é o [primeiro desafio da seção Fundamentos do The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), e consiste em um site estático com receitas, utilizando apenas **HTML puro**. O objetivo é praticar a estruturação semântica de páginas web.
 
 ### Como Usar
 
-1.  Clone este repositório para sua máquina local usando o seguinte comando:
+```bash
+git clone https://github.com/FragozoLeonardo/Odin-Recipes.git
+cd Odin-Recipes
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/Odin-Recipes.git
-    ```
+Depois, abra o arquivo `index.html` com seu navegador preferido.
 
-2.  Navegue até o diretório do projeto:
+### Funcionalidades
 
-    ```bash
-    cd Odin-Recipes
-    ```
-
-3.  Abra o arquivo `index.html` em seu navegador web.
-
-### Conteúdo
-
-* Páginas de receitas simples.
-* Estrutura básica de HTML.
+- Estrutura básica com HTML5  
+- Navegação simples entre páginas de receitas  
+- Código organizado e semântico
 
 ### Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou novas receitas.
+Contribuições são bem-vindas! Envie um pull request com melhorias, novas receitas ou sugestões.
 
 ---
 
-## 🇺🇸 Recipes Project 🇺🇸
-
-This is the [first project from The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), focusing on basic HTML.
+## 🇺🇸 Odin Recipes 🧑‍🍳
 
 ### Description
 
-This project consists of a simple recipe website, built using only HTML. The goal is to practice and demonstrate basic web page structuring skills.
+This is the [first challenge from The Odin Project's Foundations section](https://www.theodinproject.com/lessons/foundations-recipes), and it consists of a static recipe website built using **pure HTML**. The goal is to practice semantic structuring of web pages.
 
 ### How to Use
 
-1.  Clone this repository to your local machine using the following command:
+```bash
+git clone https://github.com/FragozoLeonardo/Odin-Recipes.git
+cd Odin-Recipes
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/Odin-Recipes.git
-    ```
+Then open the `index.html` file in your favorite browser.
 
-2.  Navigate to the project directory:
+### Features
 
-    ```bash
-    cd Odin-Recipes
-    ```
-
-3.  Open the `index.html` file in your web browser.
-
-### Content
-
-* Simple recipe pages.
-* Basic HTML structure.
+- Basic structure using HTML5  
+- Simple recipe navigation  
+- Clean and semantic code
 
 ### Contribution
 
-Contributions are welcome! Feel free to submit pull requests with improvements or new recipes.
+Contributions are welcome! Feel free to open pull requests with improvements or new recipe pages.
 
 ---
 
-## 🇯🇵 レシピプロジェクト 🇯🇵
-
-これは[The Odin Projectの最初のプロジェクト](https://www.theodinproject.com/lessons/foundations-recipes)で、基本的なHTMLに焦点を当てています。
+## 🇯🇵 Odin Recipes 🧑‍🍳
 
 ### 説明
 
-このプロジェクトは、HTMLのみを使用して構築されたシンプルなレシピウェブサイトです。目標は、基本的なウェブページ構造のスキルを練習し、実証することです。
+このプロジェクトは、[The Odin Projectの「基礎」セクションの最初の課題](https://www.theodinproject.com/lessons/foundations-recipes)であり、**HTMLのみ**を使用して構築された静的なレシピサイトです。目的は、ウェブページのセマンティックな構造化を練習することです。
 
 ### 使用方法
 
-1.  次のコマンドを使用して、このリポジトリをローカルマシンにクローンします。
+```bash
+git clone https://github.com/FragozoLeonardo/Odin-Recipes.git
+cd Odin-Recipes
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/Odin-Recipes.git
-    ```
+その後、`index.html`をブラウザで開いてください。
 
-2.  プロジェクトディレクトリに移動します。
+### 機能
 
-    ```bash
-    cd Odin-Recipes
-    ```
-
-3.  ウェブブラウザで`index.html`ファイルを開きます。
-
-### 内容
-
-* シンプルなレシピページ。
-* 基本的なHTML構造。
+- HTML5の基本構造  
+- シンプルなレシピナビゲーション  
+- セマンティックなマークアップ
 
 ### 貢献
 
-貢献を歓迎します！改善や新しいレシピを含むプルリクエストを自由に送信してください。
+改善や新しいレシピの追加など、プルリクエストを歓迎します！
+
+---
